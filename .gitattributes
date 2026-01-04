@@ -1,0 +1,7 @@
+/.gi*                   export-ignore
+/.php*                  export-ignore
+/coverage.clover        export-ignore
+/phpstan.dist.neon      export-ignore
+/phpunit.dist.xml       export-ignore
+/docs                   export-ignore
+/tests                  export-ignore
